@@ -1,0 +1,104 @@
+
+bird.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 109, 19
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+canhtruoc
+  rotate: false
+  xy: 419, 87
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 275, 94
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 347, 94
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 203, 94
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+foot_sau
+  rotate: false
+  xy: 2, 2
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+foot_truoc
+  rotate: false
+  xy: 178, 20
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 109, 78
+  size: 92, 41
+  orig: 92, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 12
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+leg_sau
+  rotate: true
+  xy: 224, 82
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+leg_truoc
+  rotate: false
+  xy: 212, 57
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+lip
+  rotate: true
+  xy: 178, 30
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 203, 78
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 480, 63
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1

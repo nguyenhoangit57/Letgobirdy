@@ -1,0 +1,76 @@
+
+cat.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banchan_sau
+  rotate: true
+  xy: 149, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+banchan_truoc
+  rotate: true
+  xy: 174, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+body_
+  rotate: false
+  xy: 149, 67
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+cangchan_sau
+  rotate: true
+  xy: 240, 66
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+cangchan_truoc
+  rotate: true
+  xy: 406, 94
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 149, 35
+  size: 81, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 240, 96
+  size: 81, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 323, 96
+  size: 81, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 19
+  size: 145, 107
+  orig: 145, 107
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 460, 96
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
